@@ -1,6 +1,4 @@
-# Data Science and AI Portfolio
-
-## Noreen
+# Data Science and AI Expert
 AI Intern at Binary Hub | Graduate in Computer Science (KIU)
 
 ### About Me
