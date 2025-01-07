@@ -10,6 +10,27 @@ I am a passionate AI and Data Science enthusiast with a background in Computer S
 
 ## Projects
 
+### Machine Learning
+- **[Monkeypox Classification](https://github.com/Noreen999/MACHINE-LEARNING/tree/main)**  
+  Built a classification model to detect monkeypox using machine learning techniques.
+
+---
+
+### Image Processing
+- **[Face Swapping Model](https://github.com/Noreen999/AI-and-Data-Science/blob/main/face_swapping.ipynb)**  
+  Developed a model for face swapping using computer vision techniques.
+
+- **[Moving Object Detection & Feature Extraction](https://github.com/Noreen999/Digital-Image-Processing)**  
+  Created a system for detecting moving objects and extracting features from video footage.
+
+---
+
+### Prompt Engineering
+- **[AI Prompt Engineering](https://noreen999.github.io/Ai-prompt-engineering/)**  
+  Developed and fine-tuned AI prompts for various applications in natural language processing.
+
+---
+
 ### Data Science
 - **[Pandas on DataSeries Operations](https://www.linkedin.com/posts/activity-7150711420022677504-R4u8?utm_source=share&utm_medium=member_desktop)**  
   Explored dynamic operations using Pandas for efficient DataSeries manipulation.
@@ -17,40 +38,20 @@ I am a passionate AI and Data Science enthusiast with a background in Computer S
 - **[SF Salaries Dataset Analysis](link_to_github_repo)**  
   Analyzed salary distributions and trends within the SF Salaries dataset.
   
-- **[E-commerce Purchases Analysis](link_to_github_repo)**  
+- **[E-commerce Purchases Analysis](https://www.linkedin.com/posts/activity-7150712003081166849-FRkC?utm_source=share&utm_medium=member_desktop)**  
   Unveiled consumer behavior patterns in the E-commerce domain.
   
 - **[Exploratory Data Analysis (EDA) on Credit Card Fraud Dataset](link_to_github_repo)**  
   Performed in-depth analysis to identify fraud patterns and detect anomalies.
 
-- **[World Population Demographic Trends](link_to_github_repo)**  
+- **[World Population Demographic Trends](https://www.linkedin.com/posts/noreen-zehra-a927a923a_dataanalysis-creditcardfraud-machinelearning-activity-7154116720062783488-ajVY?utm_source=share&utm_medium=member_desktop)**
+- 
   Visualized global demographic trends using the World Population dataset.
   
-- **[Sentiment Analysis of Social Media Data](link_to_github_repo)**  
+- **[Sentiment Analysis of Social Media Data](https://www.linkedin.com/posts/noreen-zehra-a927a923a_internshipupdate-datascience-sentimentanalysis-activity-7162311477494853632-nATy?utm_source=share&utm_medium=member_desktop)**  
   Analyzed sentiment patterns in social media discussions and public opinion.
 
----
-
-### Machine Learning
-- **[Monkeypox Classification](link_to_github_repo)**  
-  Built a classification model to detect monkeypox using machine learning techniques.
-
----
-
-### Image Processing
-- **[Face Swapping Model](link_to_github_repo)**  
-  Developed a model for face swapping using computer vision techniques.
-
-- **[Moving Object Detection & Feature Extraction](link_to_github_repo)**  
-  Created a system for detecting moving objects and extracting features from video footage.
-
----
-
-### Prompt Engineering
-- **[AI Prompt Engineering](link_to_github_repo)**  
-  Developed and fine-tuned AI prompts for various applications in natural language processing.
-
----
+  ---
 
 ## Experience
 - **AI Intern at Binary Hub** (August 2024 - Present)
@@ -63,9 +64,9 @@ I am a passionate AI and Data Science enthusiast with a background in Computer S
 ---
 
 ## Get in Touch
-- [LinkedIn](link_to_linkedin)
-- [GitHub](link_to_github)
-- [Email](your_email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/noreen-zehra-a927a923a/)
+- [GitHub](https://github.com/Noreen999)
+- [Email](zehranoreen6@gmail.com)
 
 ---
 
@@ -83,6 +84,7 @@ I am a passionate AI and Data Science enthusiast with a background in Computer S
 
 ---
 
-## Blog (Optional)
-- [Technical Blog](link_to_blog)  
-  I write about AI, Data Science, and Machine Learning techniques, sharing my insights and experiences.
+## Blog 
+- *Coming Soon*  
+  I plan to write about AI, Data Science, and Machine Learning in the future, sharing tutorials and practical insights on my journey.
+
